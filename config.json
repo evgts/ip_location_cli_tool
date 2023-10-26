@@ -1,0 +1,5 @@
+{
+  "output_file_path": "ip_location.json",
+  "api_key": "<api key>",
+  "protocol": "http"
+}
